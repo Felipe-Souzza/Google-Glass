@@ -1,0 +1,36 @@
+<!-- (body)corpo do site -->
+
+<!-- (div) está levando o nome de "interface", a qual vai  definir toda a home em "interface"-->
+
+<!-- (header) leva o id de cabeçalho por lógicamente ser o nosso cabeçalho -->
+
+<!--(hgroup) está definindo um conjunto de grupo de h-->
+
+<!-- (img src="") ou imargem source, vai buscar o caminho (path) da imagem -->
+
+<!--<br> = break row "quebra de linha"-->
+
+<!--&nbsp; = espaço no código que o navegador ler -->
+
+<!--<wbr/> = quebra palavras-->
+
+<!--&shy; = adiciona hifen na quebra de palavras -->
+
+
+
+<!-- SIMBOLOS ESPECIAIS -->
+
+<!--&lt; = menor que  -->
+<!--&gt; = mairo que  -->
+<!--&le; = igual ou menor que  -->
+<!--&ge; = igual ou maior que  -->
+
+<!-- MONETARIOS -->
+
+<!-- &poud; = libras -->
+<!-- &yen; = yen; -->
+<!-- &euro = euro; -->
+
+<!-- &Copy; = copyright -->
+<!-- &reg; = marca registrada -->
+<!-- &trade; = trademark -->
