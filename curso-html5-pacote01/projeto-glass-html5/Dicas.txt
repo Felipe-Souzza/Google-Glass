@@ -18,6 +18,8 @@
 
 
 
+
+
 <!-- SIMBOLOS ESPECIAIS -->
 
 <!--&lt; = menor que  -->
@@ -34,3 +36,14 @@
 <!-- &Copy; = copyright -->
 <!-- &reg; = marca registrada -->
 <!-- &trade; = trademark -->
+
+<!-- FORMATAÇÃO DE TEXTO -->
+
+<!-- <i> = italico -->
+<!-- <em> = emfase (deitado) -->
+<!-- <b> (bold) = negrito -->
+<!-- <del> "deletado" = riscado -->
+    <!-- CSS -->
+<!-- TAG style="text-align: center ou right ou left" = alinha o texto ao centro, direita e esquerda -->
+<!-- TAG style="text-align: justify" = organiza a bagunça -->
+<!-- TAG style="text-align: justify"; TEXT-IDENT:"50 px" = marca de paragráfo -->
