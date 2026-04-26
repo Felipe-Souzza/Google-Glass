@@ -47,3 +47,18 @@
 <!-- TAG style="text-align: center ou right ou left" = alinha o texto ao centro, direita e esquerda -->
 <!-- TAG style="text-align: justify" = organiza a bagunça -->
 <!-- TAG style="text-align: justify"; TEXT-IDENT:"50 px" = marca de paragráfo -->
+
+            cores
+pode se usar o ex: <body style="background-color: yellow"
+ou pode usar 
+<style>  
+    body{
+        background-color: greem
+    }
+    header{
+        background-color: yellow
+    }
+
+
+</style>      
+forma de adicionar as cores: #606060, rgb(red, green, yellow), green; (nome da cor)
