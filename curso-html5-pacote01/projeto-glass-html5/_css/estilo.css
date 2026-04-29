@@ -1,22 +1,25 @@
 @charset "UTF-8";
+body{}
+h1{text-align: center;}
 
-h1{
-    text-align: center;
+h2{text-align: left;}
+
+p{text-align: justify;}
+         
+
+figure.foto-legenda {
+    overflow: hidden;
+    width: 900px;
+    height: auto;
 }
 
-h2{
-    text-align: left;
+figure.foto-legenda { /* usado para alinhar a imagem ao centro */
+    display: block;
+    margin: 0% auto;
 }
 
-p{
-    text-align: justify;
-            
-}
-    
-figure.foto-legenda{
-    border: 10px solid color(BLACK);
-}
-figure.foto-legenda img{
+figure.foto-legenda img { /* usado para colocar a imagem dentro de uma conteiner, e ajustar ela em auto */
     width: 100%;
-    height: 100%;
+    height: auto;
+    display: block;
 }
