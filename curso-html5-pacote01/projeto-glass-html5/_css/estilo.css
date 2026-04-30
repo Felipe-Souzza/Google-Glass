@@ -6,7 +6,7 @@ h2{text-align: left;}
 
 p{text-align: justify;}
          
-
+/* homem e mulher legenda*/
 figure.foto-legenda {
     overflow: hidden;
     width: 900px;
@@ -22,4 +22,7 @@ figure.foto-legenda img { /* usado para colocar a imagem dentro de uma conteiner
     width: 100%;
     height: auto;
     display: block;
+}
+/*glass head*/
+figure.glass-head {
 }
